@@ -27,6 +27,7 @@ httpcore==1.0.7
 httpx==0.28.1
 idna==3.10
 ipykernel==6.29.5
+ipympl==0.9.6
 ipython==8.32.0
 ipywidgets==8.1.5
 isoduration==20.11.0
@@ -84,7 +85,7 @@ pytz==2025.1
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
--e git+https://github.com/ng-23/regular-birds.git@ea0bc4ca1ed351d36e12fe9dd66b329581757687#egg=regular_birds
+-e git+https://github.com/ng-23/regular-birds.git@ae13c6e21b5135787311794e8e97f0bd2322e033#egg=regular_birds
 requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
